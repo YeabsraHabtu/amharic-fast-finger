@@ -695,5 +695,3 @@ input:checked + .slider:before {
     grid-column: 1 / -1;
   }
 }
-
-/* Enhanced responsive styling */
